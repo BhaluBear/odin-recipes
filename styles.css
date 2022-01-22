@@ -1,0 +1,37 @@
+.title {
+    color:aquamarine;
+    background-color:plum;
+    text-align:center;
+    font-family:"Courier New", monospace;
+}
+
+.link {
+    color:plum;
+    background-color:aquamarine;
+    font-family:"Times New Roman", sans-serif;
+}
+
+.subheading {
+    background-color: turquoise;
+    color:yellow;
+}
+
+* {
+    color:purple;
+}
+
+h3 {
+    background-color: rgb(236, 183, 183);
+}
+
+ul {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+ol {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    font-style: italic;
+}
